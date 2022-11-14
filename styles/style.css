@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #ece9fd;
+  padding: 60px 23px 66px;
+  font-family: "Epilogue", sans-serif;
+}
+
+main p:nth-child(1) {
+  text-transform: uppercase;
+  color: #7158ef;
+  margin-bottom: 14px;
+}
+
+li {
+  list-style: none;
+}
+
+h1 {
+  margin-bottom: 15px;
+}
+
+.p-primary {
+  color: rgba(10, 0, 57, 0.64);
+  line-height: 1.5;
+  margin-bottom: 15px;
+}
+
+a {
+  text-decoration: none;
+  color: #090039;
+}
+
+li {
+  margin-top: 64px;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+li span {
+  font-size: 64px;
+  font-weight: 800;
+}
