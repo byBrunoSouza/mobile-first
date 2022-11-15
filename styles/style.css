@@ -27,12 +27,16 @@ h1 {
 .p-primary {
   color: rgba(10, 0, 57, 0.64);
   line-height: 1.5;
-  margin-bottom: 15px;
+  margin-bottom: 44px;
 }
 
 a {
+  padding: 16px 32px;
+  border: 1px solid #090039;
+  border-radius: 8px;
   text-decoration: none;
   color: #090039;
+  background-color: #d5cff3;
 }
 
 li {
